@@ -1,9 +1,13 @@
 <h1 align="center">Hi 👋, I'm Yuan Yoshimi</h1>
 <h3 align="center">A student from Japan currently studying in Canada</h3>
 
-- 🔭 I’m currently working on [RCJ Light Weight Soccer Robot](https://a360.co/3x0yv2s)
+- Hi, I'm currently studying at [St. Andrew's College](https://www.sac.on.ca/)
 
 - 🌱 I’m currently learning **Web Design (HTML,CSS,JAVASCRIPT)**
+
+- 🔭 I’m currently working on [RCJ Light Weight Soccer Robo](https://a360.co/3x0yv2s)
+
+- 🔭 I’m currently working on [Bicopter Drone](https://a360.co/3VvYFnT)
 
 - 📫 How to reach me **24yoshyu@gmail.com**
 
