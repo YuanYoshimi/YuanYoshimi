@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Web Design (HTML,CSS,JAVASCRIPT)**
 
-- 🔭 I’m currently working on [RCJ Light Weight Soccer Robo](https://a360.co/3x0yv2s)
+- 🔭 I’m currently working on [RCJ Light Weight Soccer Robot](https://a360.co/3x0yv2s)
 
 - 🔭 I’m currently working on [Bicopter Drone](https://a360.co/3VvYFnT)
 
