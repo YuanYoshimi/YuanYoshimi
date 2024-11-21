@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yuan Yoshimi</h1>
-<h3 align="center">A student from Japan currently studying in Canada</h3>
+<h3 align="center">A student from Japan currently studying in the US</h3>
 
-- Hi, I'm currently studying at [St. Andrew's College](https://www.sac.on.ca/)
+- Hi, I'm currently studying at UC Irvine
 
 - 🌱 I’m currently learning **Web Design (HTML,CSS,JAVASCRIPT)**
 
