@@ -1,20 +1,51 @@
-<h1 align="center">Hi 👋, I'm Yuan Yoshimi</h1>
-<h3 align="center">A student from Japan currently studying in the US</h3>
+# Yuan Yoshimi
 
-- Hi, I'm currently studying at UC Irvine
+  **CS + Architecture & Embedded Systems @ UC Irvine**
+  Japanese · Class of 2028
 
-- 🌱 I’m currently learning **Web Design (HTML,CSS,JAVASCRIPT)**
+  ---
 
-- 🔭 I’m currently working on [RCJ Light Weight Soccer Robot](https://a360.co/3x0yv2s)
+  ### About
+  Building at the intersection of software, hardware & AI.
+  Currently an incoming System Engineering Intern @ Bosch and working on prediction market bots and AI visibility tools.
 
-- 🔭 I’m currently working on [Bicopter Drone](https://a360.co/3VvYFnT)
+  ---
 
-- 📫 How to reach me **24yoshyu@gmail.com**
+  ### Experience
+  - 🔧 **Bosch** — System Engineering Intern *(Incoming, Jun 2026)*
+  - 🏥 **UCI Health Cancer Center** — Digital Communications Assistant
+  - 🦷 **M's Dental Clinic** — Software Developer Intern
+  - 🌤️  **TENKI-JAPAN** — Software Engineer Intern
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/yuan-yoshimi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yuan-yoshimi" height="30" width="40" /></a>
-</p>
+  ---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+  ### Projects
+  - 🤖 **[RoboCup Soccer Robot](https://github.com/2024-Robocup-Soccer/Andys-Geese-2024)** — Autonomous C++ robot; 🥇 Canadian National Champion, represented Canada at World RoboCup
+  (Netherlands)
+  - 🍽️  **[ZotMeal](https://github.com/icssc/PeterPlate)** — Real-time dining app for 5,000+ UCI students
+  - 🧠 **CARL Research** — PyTorch CNN models + SLAM for autonomous robots @ UCI
+  - 📈 **Weather Trading Bot** — Polymarket prediction market bot *(in progress)*
+  - 🔍 **Kensaku AI** — AI visibility tool for Japanese dental companies *(in progress)*
+
+  ---
+
+  ### Tech
+  `C++` `Python` `Java` `TypeScript` `JavaScript`
+  `React Native` `Next.js` `FastAPI` `Node.js` `PostgreSQL`
+  `Docker` `Google Cloud` `Firebase` `Figma`
+  `PCB Design` `OpenMV` `CAD (Fusion 360 / SolidWorks)`
+
+  ---
+
+  ### Languages
+  🇨🇦 English (Fluent) · 🇯🇵 Japanese (Fluent)
+
+  ---
+
+  <p align="left">
+    <a href="https://www.linkedin.com/in/yuan-yoshimi">LinkedIn</a> ·
+    <a href="https://yuanyoshimi.github.io">Portfolio</a> ·
+    <a href="mailto:yoshimi1@uci.edu">yoshimi1@uci.edu</a>
+  </p>
+
+  ---
