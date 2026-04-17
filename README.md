@@ -1,7 +1,7 @@
 # Yuan Yoshimi
 
   **CS + Architecture & Embedded Systems @ UC Irvine**
-  Japanese · Class of 2028
+  · Class of 2028
 
   ---
 
